@@ -5,6 +5,7 @@ Este projeto é o começo de uma nova jornada de estudos sobre NodeJS, no curso 
 # Conceitos aprendidos aqui:
 
 1- Iniciar uma estrutura de projeto NodeJS com o framework Express
+
   $ yarn init -y
   $ yarn add express
   
